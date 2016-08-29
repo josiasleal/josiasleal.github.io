@@ -1,0 +1,33 @@
+---
+title: "Fasano"
+layout: project
+date: 2016-04-20 04:19
+tag: 
+- code igniter
+- Javascript
+- PHP
+image: /assets/images/refone-logo.png
+headerImage: false
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "Website made for Fasano Group early in 2011"
+jemoji: 
+author: josh
+externalLink: false
+---
+![Blog Screenshot](/assets/images/projects/fasano01.jpg)
+![Blog Screenshot](/assets/images/projects/fasano02.jpg)
+![Shop Screenshot](/assets/images/projects/fasano03.jpg)
+![Shop Screenshot](/assets/images/projects/fasano04.jpg)
+
+Website made for Fasano Group early in 2011 @ [Estúdio Aretha](http://aretha.com.br){:target="_blank"}  
+
+Visit [Website](http://fasano.com.br){:target="_blank"}.
+
+---
+
+What has inside?
+
+- Code Igniter
+- Javascript
+- Database Modeling

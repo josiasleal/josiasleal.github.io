@@ -8,11 +8,9 @@ layout: page
 
 <h1 class="title">{{ page.title }}</h1>
 
-<span class="date">
-    <time datetime="{{ page.date | date:"%d-%m-%Y" }}">{{ page.date | date: "%A. %B %d, %Y" }}</time>
-    {% if site.read-time %} - {% include read-time.html %}{% endif %}
-</span>
+{{content}}
 
+<h4>TAGS:</h4>
 {% if site.show-tags %}
     <div class="post-tags">
         {% for tag in page.tags %}
@@ -20,8 +18,6 @@ layout: page
         {% endfor %}
     </div>
 {% endif %}
-
-{{content}}
 
 {% if page.blog and site.blog-nav-links %}
     <div class="blog-navigation">
@@ -38,8 +34,4 @@ layout: page
 
 {% if site.related %}
     {% include related.html %}
-{% endif %}
-
-{% if site.disqus %}
-    {% include disqus.html %}
 {% endif %}
