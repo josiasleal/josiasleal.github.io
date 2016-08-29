@@ -7,6 +7,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "_posts/2016-04-20-bonspensamentos.markdown",
+			"settings":
+			{
+				"buffer_size": 1494,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -43,18 +51,22 @@
 		"/Users/josiasleal/dev/josiasleal.github.io",
 		"/Users/josiasleal/dev/josiasleal.github.io/_includes",
 		"/Users/josiasleal/dev/josiasleal.github.io/_layouts",
-		"/Users/josiasleal/dev/josiasleal.github.io/_posts"
+		"/Users/josiasleal/dev/josiasleal.github.io/_posts",
+		"/Users/josiasleal/dev/josiasleal.github.io/blog"
 	],
 	"file_history":
 	[
+		"/Users/josiasleal/dev/josiasleal.github.io/_config.yml",
+		"/Users/josiasleal/dev/josiasleal.github.io/about.md",
+		"/Users/josiasleal/dev/josiasleal.github.io/_layouts/post.html",
+		"/Users/josiasleal/dev/josiasleal.github.io/_includes/related.html",
+		"/Users/josiasleal/dev/josiasleal.github.io/_includes/nav.html",
 		"/Users/josiasleal/dev/josiasleal.github.io/_layouts/page.html",
 		"/Users/josiasleal/dev/josiasleal.github.io/_posts/2016-04-20-refone.markdown",
-		"/Users/josiasleal/dev/josiasleal.github.io/_config.yml",
 		"/Users/josiasleal/dev/josiasleal.github.io/_posts/2016-04-20-bonspensamentos.markdown",
 		"/Users/josiasleal/dev/josiasleal.github.io/_posts/2016-04-20-fasano.markdown",
 		"/Users/josiasleal/dev/josiasleal.github.io/_posts/2016-04-20-mixologynews.markdown",
 		"/Users/josiasleal/dev/josiasleal.github.io/_posts/2015-02-24-markdown-extra-components.markdown",
-		"/Users/josiasleal/dev/josiasleal.github.io/about.md",
 		"/Users/josiasleal/dev/josiasleal.github.io/_layouts/project.html",
 		"/Users/josiasleal/dev/josiasleal.github.io/_posts/2016-02-24-markdown-common-elements.markdown",
 		"/Users/josiasleal/dev/josiasleal.github.io/_posts/2016-01-23-indigo-jekyll-theme.markdown",
@@ -68,7 +80,6 @@
 		"/Users/josiasleal/dev/josiasleal.github.io/_sass/components/author.sass",
 		"/Users/josiasleal/dev/josiasleal.github.io/_includes/icons.html",
 		"/Users/josiasleal/dev/josiasleal.github.io/_includes/social-links.html",
-		"/Users/josiasleal/dev/josiasleal.github.io/_includes/nav.html",
 		"/Users/josiasleal/dev/josiasleal.github.io/_includes/header.html",
 		"/Users/josiasleal/dev/josiasleal.github.io/_sass/base/variables.sass",
 		"/Users/josiasleal/dev/josiasleal.github.io/_sass/base/general.sass",
@@ -216,8 +227,37 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "_posts/2016-04-20-bonspensamentos.markdown",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1494,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1099,
+								1148
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
