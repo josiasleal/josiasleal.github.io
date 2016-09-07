@@ -1,0 +1,34 @@
+---
+title: "Refone"
+layout: project
+date: 2016-04-20 04:20
+tag: 
+- prestashop
+- cdn
+- pagespeed
+image: /assets/images/refone-logo.png
+headerImage: false
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "E-commerce website made for Recomércio Startup in São Paulo between 2014~2015"
+jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
+author: josh
+externalLink: false
+---
+
+![Website Screenshot](/assets/images/projects/refone01.png)
+
+E-commerce website made for Recomércio Startup in São Paulo between 2014~2015 
+
+Visit [Website](http://refone.com.br).
+
+---
+
+What has inside?
+
+- Prestashop
+- SOAP
+- Marketplace Integration
+- Custom Payment Gateways
+- CDN for assets
+- Pagespeed

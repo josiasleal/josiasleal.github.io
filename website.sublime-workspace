@@ -1,0 +1,350 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_posts/2016-04-20-bonspensamentos.markdown",
+			"settings":
+			{
+				"buffer_size": 1494,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/josiasleal/dev/josiasleal.github.io",
+		"/Users/josiasleal/dev/josiasleal.github.io/_includes",
+		"/Users/josiasleal/dev/josiasleal.github.io/_layouts",
+		"/Users/josiasleal/dev/josiasleal.github.io/_posts",
+		"/Users/josiasleal/dev/josiasleal.github.io/blog"
+	],
+	"file_history":
+	[
+		"/Users/josiasleal/dev/josiasleal.github.io/_config.yml",
+		"/Users/josiasleal/dev/josiasleal.github.io/about.md",
+		"/Users/josiasleal/dev/josiasleal.github.io/_layouts/post.html",
+		"/Users/josiasleal/dev/josiasleal.github.io/_includes/related.html",
+		"/Users/josiasleal/dev/josiasleal.github.io/_includes/nav.html",
+		"/Users/josiasleal/dev/josiasleal.github.io/_layouts/page.html",
+		"/Users/josiasleal/dev/josiasleal.github.io/_posts/2016-04-20-refone.markdown",
+		"/Users/josiasleal/dev/josiasleal.github.io/_posts/2016-04-20-bonspensamentos.markdown",
+		"/Users/josiasleal/dev/josiasleal.github.io/_posts/2016-04-20-fasano.markdown",
+		"/Users/josiasleal/dev/josiasleal.github.io/_posts/2016-04-20-mixologynews.markdown",
+		"/Users/josiasleal/dev/josiasleal.github.io/_posts/2015-02-24-markdown-extra-components.markdown",
+		"/Users/josiasleal/dev/josiasleal.github.io/_layouts/project.html",
+		"/Users/josiasleal/dev/josiasleal.github.io/_posts/2016-02-24-markdown-common-elements.markdown",
+		"/Users/josiasleal/dev/josiasleal.github.io/_posts/2016-01-23-indigo-jekyll-theme.markdown",
+		"/Users/josiasleal/dev/josiasleal.github.io/_includes/footer.html",
+		"/Users/josiasleal/dev/josiasleal.github.io/_sass/components/nav.sass",
+		"/Users/josiasleal/dev/josiasleal.github.io/_includes/blog-post.html",
+		"/Users/josiasleal/dev/josiasleal.github.io/projects.html",
+		"/Users/josiasleal/dev/josiasleal.github.io/_sass/pages/post.sass",
+		"/Users/josiasleal/dev/josiasleal.github.io/_sass/pages/tags.sass",
+		"/Users/josiasleal/dev/josiasleal.github.io/_sass/pages/home-blog-projects.sass",
+		"/Users/josiasleal/dev/josiasleal.github.io/_sass/components/author.sass",
+		"/Users/josiasleal/dev/josiasleal.github.io/_includes/icons.html",
+		"/Users/josiasleal/dev/josiasleal.github.io/_includes/social-links.html",
+		"/Users/josiasleal/dev/josiasleal.github.io/_includes/header.html",
+		"/Users/josiasleal/dev/josiasleal.github.io/_sass/base/variables.sass",
+		"/Users/josiasleal/dev/josiasleal.github.io/_sass/base/general.sass",
+		"/Users/josiasleal/dev/josiasleal.github.io/_sass/pages/page.sass",
+		"/Users/josiasleal/dev/josiasleal.github.io/_includes/style.scss",
+		"/Users/josiasleal/dev/josiasleal.github.io/_sass/components/others.sass",
+		"/Users/josiasleal/dev/josiasleal.github.io/_sass/components/social-links.sass",
+		"/Users/josiasleal/dev/josiasleal.github.io/_sass/components/header.sass",
+		"/Users/josiasleal/dev/josiasleal.github.io/_sass/base/syntax.sass",
+		"/Users/josiasleal/dev/josiasleal.github.io/_sass/base/helpers.sass",
+		"/Users/josiasleal/dev/sitemaisamor/_includes/nav.html",
+		"/Users/josiasleal/dev/sitemaisamor/_includes/footer.html",
+		"/Users/josiasleal/dev/sitemaisamor/_config.yml",
+		"/Users/josiasleal/dev/sitemaisamor/_includes/head.html",
+		"/Users/josiasleal/dev/maisamor/maisamor.sublime-project",
+		"/Users/josiasleal/dev/maisamor/_includes/footer.html",
+		"/Users/josiasleal/dev/maisamor/_includes/signoff.html",
+		"/Users/josiasleal/dev/maisamor/index.html",
+		"/Users/josiasleal/dev/maisamor/_layouts/home.html",
+		"/Users/josiasleal/dev/maisamor/_config.yml",
+		"/Users/josiasleal/dev/maisamor/about/index.html",
+		"/Users/josiasleal/dev/maisamor/_includes/head.html",
+		"/Users/josiasleal/dev/maisamor/_includes/nav.html",
+		"/Users/josiasleal/dev/maisamor/_includes/newsletter.html",
+		"/Users/josiasleal/dev/maisamor/_includes/search.html",
+		"/Users/josiasleal/dev/maisamor/_layouts/default.html",
+		"/Users/josiasleal/dev/maisamor/_includes/share.html",
+		"/Users/josiasleal/Library/Caches/Cleanup At Startup/com.fetchsoftworks.Fetch/Fetch Temporary Folder/wp-config.php",
+		"/Users/josiasleal/Library/Caches/Cleanup At Startup/com.fetchsoftworks.Fetch/Fetch Temporary Folder 1/php.ini",
+		"/Users/josiasleal/freelas/digitalcondo/generator_portaria.json",
+		"/Users/josiasleal/Library/Caches/Cleanup At Startup/com.fetchsoftworks.Fetch/Fetch Temporary Folder/portfolio-stacked.tpl",
+		"/Users/josiasleal/Library/Caches/Cleanup At Startup/com.fetchsoftworks.Fetch/Fetch Temporary Folder 2/portfolio-mosaic.tpl",
+		"/Users/josiasleal/Library/Caches/Cleanup At Startup/com.fetchsoftworks.Fetch/Fetch Temporary Folder 7/hooks.php",
+		"/Users/josiasleal/Library/Caches/Cleanup At Startup/com.fetchsoftworks.Fetch/Fetch Temporary Folder 8/includes.php",
+		"/Users/josiasleal/Library/Caches/Cleanup At Startup/com.fetchsoftworks.Fetch/Fetch Temporary Folder 4/portfolio_showcase.php",
+		"/Users/josiasleal/Library/Caches/Cleanup At Startup/com.fetchsoftworks.Fetch/Fetch Temporary Folder 5/loop.php",
+		"/Users/josiasleal/Library/Caches/Cleanup At Startup/com.fetchsoftworks.Fetch/Fetch Temporary Folder 6/content-none.php",
+		"/Users/josiasleal/Library/Caches/Cleanup At Startup/com.fetchsoftworks.Fetch/Fetch Temporary Folder 1/vc_templates.php",
+		"/Users/josiasleal/Library/Caches/Cleanup At Startup/com.fetchsoftworks.Fetch/Fetch Temporary Folder 3/functions.php",
+		"/Users/josiasleal/Library/Caches/Cleanup At Startup/com.fetchsoftworks.Fetch/Fetch Temporary Folder 4/single-paladares.php",
+		"/Users/josiasleal/Library/Caches/Cleanup At Startup/com.fetchsoftworks.Fetch/Fetch Temporary Folder 1/blog_single-loop.php",
+		"/Users/josiasleal/Library/Caches/Cleanup At Startup/com.fetchsoftworks.Fetch/Fetch Temporary Folder 3/single-paladares.php",
+		"/Users/josiasleal/Library/Caches/Cleanup At Startup/com.fetchsoftworks.Fetch/Fetch Temporary Folder 2/functions.php",
+		"/Users/josiasleal/Library/Caches/Cleanup At Startup/com.fetchsoftworks.Fetch/Fetch Temporary Folder/archive-da-terra-ao-prato.php",
+		"/Users/josiasleal/Library/Caches/Cleanup At Startup/com.fetchsoftworks.Fetch/Fetch Temporary Folder/blog_single-loop.php",
+		"/Users/josiasleal/Library/Caches/Cleanup At Startup/com.fetchsoftworks.Fetch/Fetch Temporary Folder 1/single.php",
+		"/Users/josiasleal/Library/Caches/Cleanup At Startup/com.fetchsoftworks.Fetch/Fetch Temporary Folder 1/.htaccess",
+		"/Users/josiasleal/Library/Caches/Cleanup At Startup/com.fetchsoftworks.Fetch/Fetch Temporary Folder/php.ini",
+		"/Users/josiasleal/freelas/digitalcondo/showoff/portaria/server/server.js",
+		"/Users/josiasleal/freelas/digitalcondo/showoff/portaria/client/client.js",
+		"/Users/josiasleal/freelas/digitalcondo/digitalcondo/ColorPalette.ux",
+		"/Users/josiasleal/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/josiasleal/freelas/digitalcondo/showoff/pages-using-js/MainView.ux",
+		"/Users/josiasleal/freelas/digitalcondo/digitalcondo/MainView.ux",
+		"/Users/josiasleal/freelas/digitalcondo/digitalcondo/Toolbar.ux",
+		"/Users/josiasleal/Library/Caches/Cleanup At Startup/com.fetchsoftworks.Fetch/Fetch Temporary Folder 1/qode.layout.php",
+		"/Users/josiasleal/Library/Caches/Cleanup At Startup/com.fetchsoftworks.Fetch/Fetch Temporary Folder 2/php.ini",
+		"/Users/josiasleal/Library/Application Support/Sublime Text 3/Packages/Fuse/UserGuide.txt",
+		"/Users/josiasleal/Downloads/dynamic-tab-bar/MainView.ux",
+		"/private/var/folders/1c/6jcl73f174q3d78glv_rs03c0000gn/T/fz3temp-1/single-consultoria.php",
+		"/private/var/folders/1c/6jcl73f174q3d78glv_rs03c0000gn/T/fz3temp-1/archive-consultoria.php",
+		"/private/var/folders/1c/6jcl73f174q3d78glv_rs03c0000gn/T/fz3temp-1/wp-config 2.php",
+		"/private/var/folders/1c/6jcl73f174q3d78glv_rs03c0000gn/T/fz3temp-1/wp-config.php",
+		"/private/var/folders/1c/6jcl73f174q3d78glv_rs03c0000gn/T/fz3temp-1/taxonomy-blog-categoria.php",
+		"/private/var/folders/1c/6jcl73f174q3d78glv_rs03c0000gn/T/fz3temp-1/taxonomy-blog-tags.php",
+		"/private/var/folders/1c/6jcl73f174q3d78glv_rs03c0000gn/T/fz3temp-1/archive-da-terra-ao-prato.php",
+		"/private/var/folders/1c/6jcl73f174q3d78glv_rs03c0000gn/T/fz3temp-1/blog_small_image-loop.php",
+		"/private/var/folders/1c/6jcl73f174q3d78glv_rs03c0000gn/T/fz3temp-1/sidebar-da-terra-ao-prato.php",
+		"/private/var/folders/1c/6jcl73f174q3d78glv_rs03c0000gn/T/fz3temp-1/single-da-terra-ao-prato.php",
+		"/private/var/folders/1c/6jcl73f174q3d78glv_rs03c0000gn/T/fz3temp-1/archive-blog.php",
+		"/private/var/folders/1c/6jcl73f174q3d78glv_rs03c0000gn/T/fz3temp-1/single-blog.php",
+		"/private/var/folders/1c/6jcl73f174q3d78glv_rs03c0000gn/T/fz3temp-1/blog-small-image.php",
+		"/private/var/folders/1c/6jcl73f174q3d78glv_rs03c0000gn/T/fz3temp-1/single.php",
+		"/private/var/folders/1c/6jcl73f174q3d78glv_rs03c0000gn/T/fz3temp-1/single-rotas.php",
+		"/private/var/folders/1c/6jcl73f174q3d78glv_rs03c0000gn/T/fz3temp-1/category.php",
+		"/private/var/folders/1c/6jcl73f174q3d78glv_rs03c0000gn/T/fz3temp-1/archive-paladares.php",
+		"/private/var/folders/1c/6jcl73f174q3d78glv_rs03c0000gn/T/fz3temp-1/archive-rotas.php",
+		"/private/var/folders/1c/6jcl73f174q3d78glv_rs03c0000gn/T/fz3temp-1/archive-postagens.php",
+		"/private/var/folders/1c/6jcl73f174q3d78glv_rs03c0000gn/T/fz3temp-1/content.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"pinterest",
+			"icon",
+			"/journal/",
+			"http://sunbliss.github.io/photorama",
+			"memor",
+			"$vars",
+			"title",
+			"standard",
+			"vivencia",
+			"qtrans_getLanguage",
+			"'Posted at','qode'",
+			"'in','qode'",
+			"'by','qode'",
+			"<?php _e('by','qode'); ?>",
+			"single",
+			"author",
+			"get_the_author_meta",
+			"meta",
+			"author",
+			"autho",
+			"author",
+			"aut",
+			"<a href=\"http://www.mixologynews.com.br/wp-content/uploads/2016/05/cursomixologia.jpg\" target=“_blank\">\n	<img src=\"http://www.mixologynews.com.br/wp-content/uploads/2016/05/cursomixologia.jpg” />\n</a>\n",
+			"“",
+			"mail",
+			"armazem",
+			"arma"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"soundcloud",
+			"/blog/",
+			"http://josiasleal.github.io/maisamor",
+			"'Postado em','qode'",
+			"'em','qode'",
+			"'por','qode'",
+			"<?php _e('por','qode'); ?>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_posts/2016-04-20-bonspensamentos.markdown",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1494,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1099,
+								1148
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.FuseBuildResults":
+	{
+		"height": 44.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "website.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
