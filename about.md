@@ -14,6 +14,7 @@ layout: page
 
 <ul class="skill-list">
 	<li>HTML5 (Bootstrap, Google Material Design)</li>
+	<li>Wordpress (hot)</li>
 	<li>Responsiveness (Mobile First)</li>
 	<li>CSS Processors (LESS & SASS)</li>
 	<li>Javascript (Meteor.js)</li>
@@ -22,4 +23,5 @@ layout: page
 	<li>Jekyll</li>
 	<li>MySQL - MongoDB</li>
 	<li>FuseTools</li>
+	<li>Data Migration</li>
 </ul>
